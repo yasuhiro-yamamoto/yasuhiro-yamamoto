@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a Frontend developer.
-- 🌐 My website: [COLERS](https://colers.js)
+- 🌐 My website: [COLERS](https://colers.jp)
 - 📫 How to reach me: [X - @japonismapp](https://x.com/japonismapp)
 <br>
 
