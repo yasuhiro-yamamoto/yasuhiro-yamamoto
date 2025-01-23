@@ -7,7 +7,8 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a Front-end engineer.
+- 🧑‍💻 I'm a Frontend developer.
+- 🌐 My website: [Your Website Name](https://colers.js)
 - 📫 How to reach me: [X - @japonismapp](https://x.com/japonismapp)
 <br>
 
