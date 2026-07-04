@@ -7,7 +7,6 @@
 - 🧑‍💻 Web Developer — mostly frontend
 - 🌐 My website: [COLERS](https://colers.jp)
 - 📫 How to reach me: [X - @japonismapp](https://x.com/japonismapp)
-<br>
 
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,cloudflare" />
